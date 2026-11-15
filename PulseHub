@@ -1,1 +1,2 @@
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PulseHubMM2/PulseHub/refs/heads/main/PulseHubMM2.luau.txt"))()
+‎
